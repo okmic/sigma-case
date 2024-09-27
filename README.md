@@ -28,9 +28,10 @@
 
 ### До
 
-[![Смотреть видео до](https://rutube.ru/video/d2f5aac29e9bc2b56a20232ea0d26d55/)]
+[![Смотреть видео до](./after.png.png)](https://rutube.ru/video/d2f5aac29e9bc2b56a20232ea0d26d55/)
 
 ### После
 
-[![Смотреть видео после](https://rutube.ru/video/7331ea3e31ddd7877d2530a80867a233/)]
+[![Смотреть видео после](./before.png)](https://rutube.ru/video/7331ea3e31ddd7877d2530a80867a233/)
+
 
